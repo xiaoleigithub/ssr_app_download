@@ -1,1 +1,89 @@
 # ssr_app_download
+<!DOCTYPE html>
+<!-- saved from url=(0024)https://ios.yewujie.xyz/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+	<meta name="description" content="Shadowrocket">
+	<meta name="keywords" content="Shadowrocket">
+	<title>Shadowrocket</title>
+    <link rel="shortcut icon" href="https://ios.yewujie.xyz/assets/images/favicon.ico">
+    <link rel="stylesheet" href="./Shadowrocket_files/bootstrap.min.css">
+    <link rel="stylesheet" href="./Shadowrocket_files/style.css">
+    <link rel="stylesheet" href="./Shadowrocket_files/my.css">
+</head>
+<body>
+    <div class="wrap">
+        <div class="main">
+			<div class="topbread" style="margin-bottom: 20px;">
+		    	<div class="container">
+                  <h1 class="text-center">小火箭</h1>
+		    	</div>
+			</div>
+			<div style="margin-top: 70px; margin-bottom: 20px;">
+		        <div style="text-align:center;">
+		  			<div class="polaroid">
+                        <div class="logo">
+                            <img src="./Shadowrocket_files/icon.jpg" class="img-circle" width="120" height="120">
+                        </div>
+                    </div>
+		            <div class="info" id="ul">
+		                <p>版本号 2.1.23 最新 </p>
+					</div>
+		            <div style="padding-top:20px;">
+                        <div class="id" id="id" style="display: none;text-align: left;">
+							<div style="text-align:left;">
+								<p>开始安装，若提示无法连接，请按以下步骤进行手动安装。</p>
+        					    <p>找到设置—iTunes Store与App Store</p>
+								<p>使用下方的ID和密码登陆，禁止登陆icloud!!!</p>
+                                <p>登陆成功后打开应用商店搜shadowrocket即可安装 安装完及时退出</p>
+                              <p>提示:若ID被锁，可<a href="https://t.me/yewujie1">TG联系</a>或等待每日12点定时解锁</p>
+							</div>
+							<table class="table table-bordered">
+                                 <tbody>
+                                     <tr>
+                                         <td>ID密码</td>
+                                         <td><span id="account">1283116729@qq.com	YEWUJIE.XYz1</span></td>
+		                                 <td><a id="copy-id" data-clipboard-target="#account">复制</a></td>
+                                     </tr>
+                                 </tbody>
+                             </table>
+							 <p><a id="refresh">刷新</a></p><p>
+                      	</p></div>
+		                <span id="checkinfo">
+                            <a href="itms-services://?action=download-manifest&amp;url=https://ios.yewujie.xyz/ipa.plist" class="btn btn-success btn-lg btn-circle" id="uaApp">点击安装</a>
+                          <a href="https://git.vpnnet.win/" class="btn btn-success btn-lg btn-circle" id="uaApp">SSR节点获取</a>
+		                    <div class="uatip" id="uaTip">
+								<span class="uatipk-icon"></span>
+								<p class="uatip-txt"><br>请在Safari中打开本站</p>
+							</div>
+		                </span>
+		            </div>
+		        </div>
+                <br>
+			</div>
+		  
+			<!-- div class="col-md-8 col-md-offset-2" -->
+		        <!-- hr class="devider devider-dotted" -->
+		    <!-- /div -->
+	        <!-- div class="col-md-8 col-md-offset-2" -->
+	            <!-- div class="text-center">2018-11-14 ID被锁定 已更换密码</div -->
+	        <!-- /div -->
+        </div>
+    </div>
+	<div class="footer">
+        <div class="text-center">
+             ©&nbsp;2019 <a href="https://yeyufan.cn/" target="blank">博客</a> <a href="https://yewujie.xyz/" target="blank">SSR节点</a>
+        </div>
+	</div>
+<script type="text/javascript" src="./Shadowrocket_files/jquery-1.7.2.min.js.下载"></script>
+<script type="text/javascript" src="./Shadowrocket_files/clipboard.min.js.下载"></script>
+<script type="text/javascript" src="./Shadowrocket_files/my.js.下载"></script>
+<script>
+    var username = "1283116729@qq.com	YEWUJIE.XYz1";
+    document.getElementById("account").innerHTML=username;
+</script>
+<!-- 百度统计 -->
+
+
+<audio controls style="display: none;"></audio></body><style type="text/css">#yddContainer{display:block;font-family:Microsoft YaHei;position:relative;width:100%;height:100%;top:-4px;left:-4px;font-size:12px;border:1px solid}#yddTop{display:block;height:22px}#yddTopBorderlr{display:block;position:static;height:17px;padding:2px 28px;line-height:17px;font-size:12px;color:#5079bb;font-weight:bold;border-style:none solid;border-width:1px}#yddTopBorderlr .ydd-sp{position:absolute;top:2px;height:0;overflow:hidden}.ydd-icon{left:5px;width:17px;padding:0px 0px 0px 0px;padding-top:17px;background-position:-16px -44px}.ydd-close{right:5px;width:16px;padding-top:16px;background-position:left -44px}#yddKeyTitle{float:left;text-decoration:none}#yddMiddle{display:block;margin-bottom:10px}.ydd-tabs{display:block;margin:5px 0;padding:0 5px;height:18px;border-bottom:1px solid}.ydd-tab{display:block;float:left;height:18px;margin:0 5px -1px 0;padding:0 4px;line-height:18px;border:1px solid;border-bottom:none}.ydd-trans-container{display:block;line-height:160%}.ydd-trans-container a{text-decoration:none;}#yddBottom{position:absolute;bottom:0;left:0;width:100%;height:22px;line-height:22px;overflow:hidden;background-position:left -22px}.ydd-padding010{padding:0 10px}#yddWrapper{color:#252525;z-index:10001;background:url(chrome-extension://eopjamdnofihpioajgfdikhhbobonhbb/ab20.png);}#yddContainer{background:#fff;border-color:#4b7598}#yddTopBorderlr{border-color:#f0f8fc}#yddWrapper .ydd-sp{background-image:url(chrome-extension://eopjamdnofihpioajgfdikhhbobonhbb/ydd-sprite.png)}#yddWrapper a,#yddWrapper a:hover,#yddWrapper a:visited{color:#50799b}#yddWrapper .ydd-tabs{color:#959595}.ydd-tabs,.ydd-tab{background:#fff;border-color:#d5e7f3}#yddBottom{color:#363636}#yddWrapper{min-width:250px;max-width:400px;}</style></html>
